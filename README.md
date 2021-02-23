@@ -4,15 +4,15 @@
 
 O move.it é um projeto desenvolvido durante a Next Level Week #4 (https://nextlevelweek.com) da 
 Rocketseat. O objetivo da aplicação é ajudar profissionais que ficam por um longo período na frente
-do computador a exercitar. É importante ressaltar que o move.it é baseado na técnica de pomodoro.
+do computador a se exercitar. É importante ressaltar que o move.it é baseado na técnica de pomodoro.
 
 ---
 
 # :rocket: Tecnologias
 Foram utilizadas as seguintes tecnologias para este projeto:
 - [ReactJS](https://pt-br.reactjs.org)
-- [Next.js](https://nextjs.org/)
-- [Typescript](typescriptlang.org/)
+- [Next.js](https://nextjs.org)
+- [Typescript](https://www.typescriptlang.org)
 
 ---
 
@@ -20,7 +20,7 @@ Foram utilizadas as seguintes tecnologias para este projeto:
 O Layout foi desenvolvido pelo [Tiago Luchtenberg](https://www.instagram.com/tiagoluchtenberg/). Segue
 o link do [Figma](https://www.figma.com/file/ge20pu3ofMOKoliUyKx1Nl/Move.it-1.0/duplicate).
 
-# :build: Criando o projeto com Next.js e TypeScript
+# :wrench: Criando o projeto com Next.js e TypeScript
 
 - Criar o projeto com Next.js:
 
@@ -56,8 +56,7 @@ ou
 $ npm run start
 
 ## Servidor da aplicação
-
-Abra [http://localhost:3000] no seu navegador para ver a aplicação
+Abra (http://localhost:3000) no seu navegador para ver a aplicação
 ```
 ---
 
