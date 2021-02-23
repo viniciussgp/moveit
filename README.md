@@ -1,11 +1,26 @@
+<h1 align="center"><img src="https://user-images.githubusercontent.com/60162736/108780878-d022c700-7547-11eb-9288-63242915c9ad.png"></h1>
 
-## Sobre o projeto
+# :book: Sobre o projeto
 
-Baseada na técnica de pomodoro, o move.it tem como objetivo é ajudar a galera que fica na frente do computador por um longo período e acaba deixando de se exercitar, desafiando o usuário de uma forma divertida. O move.it é uma aplicação que está sendo desenvolvida durante a Next Level Week #3 - Trilha ReactJs - oferecida pela Rocketseat
+O move.it é um projeto desenvolvido durante a Next Level Week #4 (https://nextlevelweek.com) da 
+Rocketseat. O objetivo da aplicação é ajudar profissionais que ficam por um longo período na frente
+do computador a exercitar. É importante ressaltar que o move.it é baseado na técnica de pomodoro.
 
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+---
 
-## Passos aula 2
+# :rocket: Tecnologias
+Foram utilizadas as seguintes tecnologias para este projeto:
+- [ReactJS](https://pt-br.reactjs.org)
+- [Next.js](https://nextjs.org/)
+- [Typescript](typescriptlang.org/)
+
+---
+
+# :art: Layout
+O Layout foi desenvolvido pelo [Tiago Luchtenberg](https://www.instagram.com/tiagoluchtenberg/). Segue
+o link do [Figma](https://www.figma.com/file/ge20pu3ofMOKoliUyKx1Nl/Move.it-1.0/duplicate).
+
+# :build: Criando o projeto com Next.js e TypeScript
 
 - Criar o projeto com Next.js:
 
@@ -19,16 +34,31 @@ npx create-next-app moveit
 npm install --save-dev typescript @types/react @types/react-dom @types/node
 ```
 
-## Getting Started
+---
 
-First, run the development server:
+# :fire: Como utilizar
 
 ```bash
-npm run dev
-# or
-yarn dev
+## Clone esse repositório
+$ git clone https://github.com/viniciussgp/moveit.git
+
+## Entre na pasta do projeto via terminal
+$ cd moveit
+
+## Instale as dependências
+yarn install
+ou
+$ npm install
+
+## Rodando o projeto
+$ yarn start
+ou
+$ npm run start
+
+## Servidor da aplicação
+
+Abra [http://localhost:3000] no seu navegador para ver a aplicação
 ```
+---
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
-
-You can start editing the page by modifying `pages/index.js`. The page auto-updates as you edit the file.
+>Este projeto foi desenvolvido com ❤️ por **[Vinícius Alves](https://github.com/viniciussgp/)**, com o instrutor **[Diego Fernandes](https://www.linkedin.com/in/diego-schell-fernandes/)** durante a **[Next Level Week # 4 - Trilha ReactJS](https://nextlevelweek.com/)** da **[Rocketseat](https://rocketseat.com.br)** 💜<br> 
