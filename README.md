@@ -20,6 +20,8 @@ Foram utilizadas as seguintes tecnologias para este projeto:
 O Layout foi desenvolvido pelo [Tiago Luchtenberg](https://www.instagram.com/tiagoluchtenberg/). Segue
 o link do [Figma](https://www.figma.com/file/ge20pu3ofMOKoliUyKx1Nl/Move.it-1.0/duplicate).
 
+---
+
 # :wrench: Criando o projeto com Next.js e TypeScript
 
 - Criar o projeto com Next.js:
