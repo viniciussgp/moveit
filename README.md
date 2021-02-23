@@ -62,4 +62,4 @@ Abra (http://localhost:3000) no seu navegador para ver a aplicação
 ```
 ---
 
->Este projeto foi desenvolvido com ❤️ por **[Vinícius Alves](https://github.com/viniciussgp/)**, com o instrutor **[Diego Fernandes](https://www.linkedin.com/in/diego-schell-fernandes/)** durante a **[Next Level Week # 4 - Trilha ReactJS](https://nextlevelweek.com/)** da **[Rocketseat](https://rocketseat.com.br)** 💜<br> 
+>Este projeto foi desenvolvido com ❤️  por **[Vinícius Alves](https://github.com/viniciussgp/)**, com o instrutor **[Diego Fernandes](https://www.linkedin.com/in/diego-schell-fernandes/)** durante a **[Next Level Week # 4 - Trilha ReactJS](https://nextlevelweek.com/)** da **[Rocketseat](https://rocketseat.com.br)** 💜<br> 
